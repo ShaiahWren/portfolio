@@ -1,3 +1,3 @@
 # shaiahemighdoyle.github.io
-## A personal software developer portfolio. Visit often for new projects!
+## A personal software developer portfolio. Visit often to see new projects!
 
